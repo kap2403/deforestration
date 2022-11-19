@@ -1,4 +1,4 @@
-JSON file has Classes:IMAGE_NAME
+JSON file has {Classes:IMAGE_NAME}
 
 CSV file has it correctly.
 
